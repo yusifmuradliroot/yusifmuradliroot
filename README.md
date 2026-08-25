@@ -6,20 +6,18 @@
 
 **AI DEVELOPMENT&nbsp;&nbsp;·&nbsp;&nbsp;SECURITY RESEARCH&nbsp;&nbsp;·&nbsp;&nbsp;SYSTEMS ENGINEERING**
 
-```txt
-$ whoami
-> building intelligent systems
-> breaking weak ones
-> status: watching
-```
+Systems software. Security research. Applied AI.
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF2222&labelColor=000000&color=1A0000)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FF2222&labelColor=000000&color=1A0000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF2222&labelColor=000000&color=1A0000)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FF2222&labelColor=000000&color=1A0000)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FF2222&labelColor=000000&color=1A0000)
-![AI](https://img.shields.io/badge/AI_Systems-000000?style=flat-square&logo=openai&logoColor=FF2222&labelColor=000000&color=1A0000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FF2222&labelColor=000000&color=1A0000)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=FF2222&labelColor=000000&color=1A0000)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FF2222&labelColor=000000&color=1A0000)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-000000?style=flat-square&logo=linux&logoColor=FF2222&labelColor=000000&color=1A0000)
+![Kernels](https://img.shields.io/badge/Kernels-000000?style=flat-square&logo=gnu&logoColor=FF2222&labelColor=000000&color=1A0000)
 ![Security](https://img.shields.io/badge/Security-000000?style=flat-square&logo=hackthebox&logoColor=FF2222&labelColor=000000&color=1A0000)
 
 <br>
