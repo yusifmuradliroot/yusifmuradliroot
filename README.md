@@ -29,4 +29,8 @@ Systems software. Security research. Applied AI.
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yusifmuradliroot&theme=radical&no-frame=true&no-bg=true&column=7" alt="trophies">
 
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/yusifmuradliroot/yusifmuradliroot/output/github-snake.svg" alt="snake">
+
 </div>
