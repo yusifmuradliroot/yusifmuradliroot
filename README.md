@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/eyes.svg" width="100%" alt="eyes in the dark">
-
 # YUSIF MURADLI
 
 **AI DEVELOPMENT&nbsp;&nbsp;·&nbsp;&nbsp;SECURITY RESEARCH&nbsp;&nbsp;·&nbsp;&nbsp;SYSTEMS ENGINEERING**
