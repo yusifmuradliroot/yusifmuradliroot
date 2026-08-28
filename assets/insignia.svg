@@ -1,19 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110">
-  <rect width="1000" height="110" fill="#080808"/>
-  <!-- thin top/bottom lines - severe -->
-  <rect y="0" width="1000" height="1.5" fill="#1A1A1A"/>
-  <rect y="108.5" width="1000" height="1.5" fill="#1A1A1A"/>
-  <!-- 4 stars - sharp, muted gold, tight -->
-  <g fill="#B8A07A">
-    <!-- star 1 -->
-    <polygon points="438,42 441.2,51.5 451,51.5 443,57.2 445,66.5 438,61 431,66.5 433,57.2 425,51.5 434.8,51.5"/>
-    <!-- star 2 -->
-    <polygon points="473,42 476.2,51.5 486,51.5 478,57.2 480,66.5 473,61 466,66.5 468,57.2 460,51.5 469.8,51.5"/>
-    <!-- star 3 -->
-    <polygon points="527,42 530.2,51.5 540,51.5 532,57.2 534,66.5 527,61 520,66.5 522,57.2 514,51.5 523.8,51.5"/>
-    <!-- star 4 -->
-    <polygon points="562,42 565.2,51.5 575,51.5 567,57.2 569,66.5 562,61 555,66.5 557,57.2 549,51.5 558.8,51.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175">
+  <rect width="1000" height="175" fill="#080808"/>
+  <rect y="0" width="1000" height="1.5" fill="#151515"/>
+  <rect y="173.5" width="1000" height="1.5" fill="#151515"/>
+  
+  <!-- Top: General class emblem - 4-star cluster with laurel hint -->
+  <g fill="#B8A07A" opacity="0.95">
+    <!-- central large star -->
+    <polygon points="500,18 502.8,26.2 511.5,26.2 504.5,31.2 506.7,39.2 500,34.5 493.3,39.2 495.5,31.2 488.5,26.2 497.2,26.2"/>
+    <!-- small stars flanking top emblem -->
+    <polygon points="482,25 483.4,29.2 487.8,29.2 484.3,31.7 485.4,35.8 482,33.4 478.6,35.8 479.7,31.7 476.2,29.2 480.6,29.2" opacity="0.7"/>
+    <polygon points="518,25 519.4,29.2 523.8,29.2 520.3,31.7 521.4,35.8 518,33.4 514.6,35.8 515.7,31.7 512.2,29.2 516.6,29.2" opacity="0.7"/>
   </g>
-  <!-- center line - cold -->
-  <rect x="492" y="75" width="16" height="1.2" fill="#1A1A1A"/>
+  <!-- laurel hint - two thin arcs -->
+  <g fill="none" stroke="#2A2A2A" stroke-width="1.1" opacity="0.9">
+    <path d="M 478 38 Q 472 42 474 48"/>
+    <path d="M 522 38 Q 528 42 526 48"/>
+  </g>
+
+  <!-- LEFT WING - sharp, Prussian / Soviet severity -->
+  <g fill="#141414" stroke="#232323" stroke-width="0.9" stroke-linejoin="miter">
+    <path d="M 386 92 L 328 72 L 318 75.5 L 268 61.5 L 258 64.8 L 208 51.5 L 196 55.2 L 158 46.5 L 149 51.2 L 179 69.5 L 189 67.2 L 229 81.5 L 239 79.2 L 279 93.2 L 289 90.8 L 329 103.5 L 386 103.5 Z"/>
+    <!-- feather lines -->
+    <path d="M 328 72 L 329 103.5" stroke="#1E1E1E" stroke-width="0.7"/>
+    <path d="M 268 61.5 L 279 93.2" stroke="#1E1E1E" stroke-width="0.7"/>
+    <path d="M 208 51.5 L 229 81.5" stroke="#1E1E1E" stroke-width="0.7"/>
+  </g>
+
+  <!-- RIGHT WING - mirrored -->
+  <g fill="#141414" stroke="#232323" stroke-width="0.9" stroke-linejoin="miter">
+    <path d="M 614 92 L 672 72 L 682 75.5 L 732 61.5 L 742 64.8 L 792 51.5 L 804 55.2 L 842 46.5 L 851 51.2 L 821 69.5 L 811 67.2 L 771 81.5 L 761 79.2 L 721 93.2 L 711 90.8 L 671 103.5 L 614 103.5 Z"/>
+    <path d="M 672 72 L 671 103.5" stroke="#1E1E1E" stroke-width="0.7"/>
+    <path d="M 732 61.5 L 721 93.2" stroke="#1E1E1E" stroke-width="0.7"/>
+    <path d="M 792 51.5 L 771 81.5" stroke="#1E1E1E" stroke-width="0.7"/>
+  </g>
+
+  <!-- Stars flanking name -->
+  <g fill="#B8A07A">
+    <!-- left 2 stars -->
+    <polygon points="402,92 404.2,99 411.5,99 405.6,103 407.3,109.8 402,105.9 396.7,109.8 398.4,103 392.5,99 399.8,99"/>
+    <polygon points="426,92 428.2,99 435.5,99 429.6,103 431.3,109.8 426,105.9 420.7,109.8 422.4,103 416.5,99 423.8,99"/>
+    <!-- right 2 stars -->
+    <polygon points="574,92 576.2,99 583.5,99 577.6,103 579.3,109.8 574,105.9 568.7,109.8 570.4,103 564.5,99 571.8,99"/>
+    <polygon points="598,92 600.2,99 607.5,99 601.6,103 603.3,109.8 598,105.9 592.7,109.8 594.4,103 588.5,99 595.8,99"/>
+  </g>
+
+  <!-- NAME - centered -->
+  <text x="500" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="7.5" fill="#EAE8E0" font-weight="400">YUSIF MURADLI</text>
+  
+  <!-- thin line under name -->
+  <rect x="445" y="115" width="110" height="0.9" fill="#1E1E1E"/>
+  <rect x="485" y="115" width="30" height="0.9" fill="#B8A07A" opacity="0.9"/>
 </svg>

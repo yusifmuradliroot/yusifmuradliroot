@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/insignia.svg" width="100%" alt="insignia">
-
-# YUSIF MURADLI
+<img src="assets/insignia.svg" width="100%" alt="General Insignia">
 
 <sub>GENERAL &nbsp;&mdash;&nbsp; SYSTEMS &nbsp;·&nbsp; SECURITY &nbsp;·&nbsp; APPLIED INTELLIGENCE</sub>
 
@@ -16,7 +14,7 @@ Baku &nbsp;·&nbsp; Aurion
 
 Systems software. Vulnerability research.
 
-Resilient architectures. Applied AI. No slogans.
+Resilient architectures. Applied AI.
 
 <br>
 
