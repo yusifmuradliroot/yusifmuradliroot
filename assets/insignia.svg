@@ -14,39 +14,45 @@
     <path d="M 522 38 Q 528 42 526 48"/>
   </g>
 
-  <!-- LEFT WING - more realistic, 6 feathers, aligned to name center -->
-  <g fill="#141414" stroke="#232323" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 276 103 L 212 86 L 205 89.5 L 162 75 L 154 78.8 L 112 65.5 L 103 69.2 L 68 59.5 L 58 62.8 L 86 77.5 L 94 75.2 L 128 89.5 L 136 87.2 L 172 101.5 L 180 99.2 L 220 113.5 L 228 111.2 L 276 117.5 Z"/>
-    <!-- feather separations - curved hint -->
-    <path d="M 212 86 L 228 111.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 162 75 L 180 99.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 112 65.5 L 136 87.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 68 59.5 L 94 75.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <!-- feather shading - subtle -->
-    <path d="M 58 62.8 L 86 77.5 L 94 75.2 L 68 59.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
-    <path d="M 103 69.2 L 128 89.5 L 136 87.2 L 112 65.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
+  <!-- LEFT WING - much wider, 7 feathers, realistic -->
+  <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
+    <path d="M 287 103 L 224 83.5 L 216 87 L 165 71.5 L 156 75.2 L 112 61.8 L 102 65.5 L 64 54.2 L 53 58 L 27 48.5 L 19 52.8 L 48 68.2 L 57 65.8 L 93 80.2 L 102 77.8 L 138 92.2 L 147 89.8 L 183 104.2 L 192 101.8 L 230 116.2 L 239 113.5 L 287 118.5 Z"/>
+    <!-- feather veins -->
+    <path d="M 224 83.5 L 239 113.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 165 71.5 L 183 104.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 112 61.8 L 138 92.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 64 54.2 L 93 80.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 27 48.5 L 57 65.8" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
+    <!-- feather shading -->
+    <path d="M 19 52.8 L 48 68.2 L 57 65.8 L 27 48.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
+    <path d="M 53 58 L 93 80.2 L 102 77.8 L 64 54.2" fill="#1E1E1E" stroke="none" opacity="0.5"/>
+    <path d="M 102 65.5 L 138 92.2 L 147 89.8 L 112 61.8" fill="#1E1E1E" stroke="none" opacity="0.45"/>
+    <path d="M 156 75.2 L 183 104.2 L 192 101.8 L 165 71.5" fill="#191919" stroke="none" opacity="0.4"/>
   </g>
 
-  <!-- RIGHT WING - mirrored, realistic -->
-  <g fill="#141414" stroke="#232323" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 724 103 L 788 86 L 795 89.5 L 838 75 L 846 78.8 L 888 65.5 L 897 69.2 L 932 59.5 L 942 62.8 L 914 77.5 L 906 75.2 L 872 89.5 L 864 87.2 L 828 101.5 L 820 99.2 L 780 113.5 L 772 111.2 L 724 117.5 Z"/>
-    <path d="M 788 86 L 772 111.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 838 75 L 820 99.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 888 65.5 L 864 87.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 932 59.5 L 906 75.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
-    <path d="M 942 62.8 L 914 77.5 L 906 75.2 L 932 59.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
-    <path d="M 897 69.2 L 872 89.5 L 864 87.2 L 888 65.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
+  <!-- RIGHT WING - mirrored, wider -->
+  <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
+    <path d="M 713 103 L 776 83.5 L 784 87 L 835 71.5 L 844 75.2 L 888 61.8 L 898 65.5 L 936 54.2 L 947 58 L 973 48.5 L 981 52.8 L 952 68.2 L 943 65.8 L 907 80.2 L 898 77.8 L 862 92.2 L 853 89.8 L 817 104.2 L 808 101.8 L 770 116.2 L 761 113.5 L 713 118.5 Z"/>
+    <path d="M 776 83.5 L 761 113.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 835 71.5 L 817 104.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 888 61.8 L 862 92.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 936 54.2 L 907 80.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 973 48.5 L 943 65.8" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
+    <path d="M 981 52.8 L 952 68.2 L 943 65.8 L 973 48.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
+    <path d="M 947 58 L 907 80.2 L 898 77.8 L 936 54.2" fill="#1E1E1E" stroke="none" opacity="0.5"/>
+    <path d="M 898 65.5 L 862 92.2 L 853 89.8 L 888 61.8" fill="#1E1E1E" stroke="none" opacity="0.45"/>
+    <path d="M 844 75.2 L 817 104.2 L 808 101.8 L 835 71.5" fill="#191919" stroke="none" opacity="0.4"/>
   </g>
 
-  <!-- Stars - vertically centered to name -->
+  <!-- Stars - lowered 2.5px for perfect centering -->
   <g fill="#B8A07A">
-    <polygon points="292,81 294.2,88 301.5,88 295.6,92 297.3,98.8 292,94.9 286.7,98.8 288.4,92 282.5,88 289.8,88"/>
-    <polygon points="318,81 320.2,88 327.5,88 321.6,92 323.3,98.8 318,94.9 312.7,98.8 314.4,92 308.5,88 315.8,88"/>
-    <polygon points="682,81 684.2,88 691.5,88 685.6,92 687.3,98.8 682,94.9 676.7,98.8 678.4,92 672.5,88 679.8,88"/>
-    <polygon points="708,81 710.2,88 717.5,88 711.6,92 713.3,98.8 708,94.9 702.7,98.8 704.4,92 698.5,88 705.8,88"/>
+    <polygon points="292,83.5 294.2,90.5 301.5,90.5 295.6,94.5 297.3,101.3 292,97.4 286.7,101.3 288.4,94.5 282.5,90.5 289.8,90.5"/>
+    <polygon points="318,83.5 320.2,90.5 327.5,90.5 321.6,94.5 323.3,101.3 318,97.4 312.7,101.3 314.4,94.5 308.5,90.5 315.8,90.5"/>
+    <polygon points="682,83.5 684.2,90.5 691.5,90.5 685.6,94.5 687.3,101.3 682,97.4 676.7,101.3 678.4,94.5 672.5,90.5 679.8,90.5"/>
+    <polygon points="708,83.5 710.2,90.5 717.5,90.5 711.6,94.5 713.3,101.3 708,97.4 702.7,101.3 704.4,94.5 698.5,90.5 705.8,90.5"/>
   </g>
 
-  <!-- NAME - centered -->
+  <!-- NAME -->
   <text x="500" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="7.5" fill="#EAE8E0" font-weight="400">YUSIF MURADLI</text>
   
   <rect x="445" y="115" width="110" height="0.9" fill="#1E1E1E"/>
