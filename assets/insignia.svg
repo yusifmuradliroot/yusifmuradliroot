@@ -3,7 +3,7 @@
   <rect y="0" width="1000" height="1.5" fill="#151515"/>
   <rect y="173.5" width="1000" height="1.5" fill="#151515"/>
   
-  <!-- Top: General class emblem -->
+  <!-- Top emblem -->
   <g fill="#B8A07A" opacity="0.95">
     <polygon points="500,18 502.8,26.2 511.5,26.2 504.5,31.2 506.7,39.2 500,34.5 493.3,39.2 495.5,31.2 488.5,26.2 497.2,26.2"/>
     <polygon points="482,25 483.4,29.2 487.8,29.2 484.3,31.7 485.4,35.8 482,33.4 478.6,35.8 479.7,31.7 476.2,29.2 480.6,29.2" opacity="0.7"/>
@@ -14,33 +14,39 @@
     <path d="M 522 38 Q 528 42 526 48"/>
   </g>
 
-  <!-- LEFT WING - moved outward -->
-  <g fill="#141414" stroke="#232323" stroke-width="0.9" stroke-linejoin="miter">
-    <path d="M 276 92 L 218 72 L 208 75.5 L 158 61.5 L 148 64.8 L 98 51.5 L 86 55.2 L 48 46.5 L 39 51.2 L 69 69.5 L 79 67.2 L 119 81.5 L 129 79.2 L 169 93.2 L 179 90.8 L 219 103.5 L 276 103.5 Z"/>
-    <path d="M 218 72 L 219 103.5" stroke="#1E1E1E" stroke-width="0.7"/>
-    <path d="M 158 61.5 L 169 93.2" stroke="#1E1E1E" stroke-width="0.7"/>
-    <path d="M 98 51.5 L 119 81.5" stroke="#1E1E1E" stroke-width="0.7"/>
+  <!-- LEFT WING - more realistic, 6 feathers, aligned to name center -->
+  <g fill="#141414" stroke="#232323" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
+    <path d="M 276 103 L 212 86 L 205 89.5 L 162 75 L 154 78.8 L 112 65.5 L 103 69.2 L 68 59.5 L 58 62.8 L 86 77.5 L 94 75.2 L 128 89.5 L 136 87.2 L 172 101.5 L 180 99.2 L 220 113.5 L 228 111.2 L 276 117.5 Z"/>
+    <!-- feather separations - curved hint -->
+    <path d="M 212 86 L 228 111.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 162 75 L 180 99.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 112 65.5 L 136 87.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 68 59.5 L 94 75.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <!-- feather shading - subtle -->
+    <path d="M 58 62.8 L 86 77.5 L 94 75.2 L 68 59.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
+    <path d="M 103 69.2 L 128 89.5 L 136 87.2 L 112 65.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
   </g>
 
-  <!-- RIGHT WING - moved outward -->
-  <g fill="#141414" stroke="#232323" stroke-width="0.9" stroke-linejoin="miter">
-    <path d="M 724 92 L 782 72 L 792 75.5 L 842 61.5 L 852 64.8 L 902 51.5 L 914 55.2 L 952 46.5 L 961 51.2 L 931 69.5 L 921 67.2 L 881 81.5 L 871 79.2 L 831 93.2 L 821 90.8 L 781 103.5 L 724 103.5 Z"/>
-    <path d="M 782 72 L 781 103.5" stroke="#1E1E1E" stroke-width="0.7"/>
-    <path d="M 842 61.5 L 831 93.2" stroke="#1E1E1E" stroke-width="0.7"/>
-    <path d="M 902 51.5 L 881 81.5" stroke="#1E1E1E" stroke-width="0.7"/>
+  <!-- RIGHT WING - mirrored, realistic -->
+  <g fill="#141414" stroke="#232323" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
+    <path d="M 724 103 L 788 86 L 795 89.5 L 838 75 L 846 78.8 L 888 65.5 L 897 69.2 L 932 59.5 L 942 62.8 L 914 77.5 L 906 75.2 L 872 89.5 L 864 87.2 L 828 101.5 L 820 99.2 L 780 113.5 L 772 111.2 L 724 117.5 Z"/>
+    <path d="M 788 86 L 772 111.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 838 75 L 820 99.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 888 65.5 L 864 87.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 932 59.5 L 906 75.2" stroke="#1C1C1C" stroke-width="0.65" opacity="0.9"/>
+    <path d="M 942 62.8 L 914 77.5 L 906 75.2 L 932 59.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
+    <path d="M 897 69.2 L 872 89.5 L 864 87.2 L 888 65.5" fill="#1A1A1A" stroke="none" opacity="0.5"/>
   </g>
 
-  <!-- Stars flanking name - moved outward, larger gap -->
+  <!-- Stars - vertically centered to name -->
   <g fill="#B8A07A">
-    <!-- left 2 stars -->
-    <polygon points="292,92 294.2,99 301.5,99 295.6,103 297.3,109.8 292,105.9 286.7,109.8 288.4,103 282.5,99 289.8,99"/>
-    <polygon points="318,92 320.2,99 327.5,99 321.6,103 323.3,109.8 318,105.9 312.7,109.8 314.4,103 308.5,99 315.8,99"/>
-    <!-- right 2 stars -->
-    <polygon points="682,92 684.2,99 691.5,99 685.6,103 687.3,109.8 682,105.9 676.7,109.8 678.4,103 672.5,99 679.8,99"/>
-    <polygon points="708,92 710.2,99 717.5,99 711.6,103 713.3,109.8 708,105.9 702.7,109.8 704.4,103 698.5,99 705.8,99"/>
+    <polygon points="292,81 294.2,88 301.5,88 295.6,92 297.3,98.8 292,94.9 286.7,98.8 288.4,92 282.5,88 289.8,88"/>
+    <polygon points="318,81 320.2,88 327.5,88 321.6,92 323.3,98.8 318,94.9 312.7,98.8 314.4,92 308.5,88 315.8,88"/>
+    <polygon points="682,81 684.2,88 691.5,88 685.6,92 687.3,98.8 682,94.9 676.7,98.8 678.4,92 672.5,88 679.8,88"/>
+    <polygon points="708,81 710.2,88 717.5,88 711.6,92 713.3,98.8 708,94.9 702.7,98.8 704.4,92 698.5,88 705.8,88"/>
   </g>
 
-  <!-- NAME -->
+  <!-- NAME - centered -->
   <text x="500" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="7.5" fill="#EAE8E0" font-weight="400">YUSIF MURADLI</text>
   
   <rect x="445" y="115" width="110" height="0.9" fill="#1E1E1E"/>
