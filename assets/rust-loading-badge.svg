@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="44" viewBox="0 0 96 44">
-  <!-- LOADING on top, faded -->
-  <text x="48" y="12" text-anchor="middle" font-family="monospace" font-size="7.5" letter-spacing="2.8" fill="#8A7A60" opacity="0.95">LOADING</text>
+  <!-- LOADING centered with dots, no touch -->
+  <text x="40" y="12" text-anchor="middle" font-family="monospace" font-size="7.5" letter-spacing="2" fill="#8A7A60" opacity="0.95">LOADING</text>
   <g fill="#8A7A60">
-    <circle cx="71" cy="10" r="1.1" opacity="0">
+    <circle cx="76" cy="10.2" r="1.1" opacity="0">
       <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="74.5" cy="10" r="1.1" opacity="0">
+    <circle cx="79.5" cy="10.2" r="1.1" opacity="0">
       <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="78" cy="10" r="1.1" opacity="0">
+    <circle cx="83" cy="10.2" r="1.1" opacity="0">
       <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
     </circle>
   </g>
