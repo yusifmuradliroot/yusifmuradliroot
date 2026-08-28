@@ -34,12 +34,6 @@ Developing Aurion, my virtual brand.
 
 <br>
 
-**RECORD**
-
-Quickdraw &nbsp;·&nbsp; Pull Shark &nbsp;·&nbsp; YOLO
-
-<br>
-
 **CONTACT**
 
 [orcid](https://orcid.org/0009-0001-4209-272X) &nbsp;·&nbsp; [instagram](https://www.instagram.com/yusifmuradlizen/)
