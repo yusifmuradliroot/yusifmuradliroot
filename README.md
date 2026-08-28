@@ -46,8 +46,4 @@ Quickdraw &nbsp;·&nbsp; Pull Shark &nbsp;·&nbsp; YOLO
 
 <sub>2026 &nbsp;·&nbsp; HQ BAKU</sub>
 
-<br>
-
-<img src="assets/turan-flag.svg" width="100%" alt="Turan Flag">
-
 </div>
