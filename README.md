@@ -2,14 +2,6 @@
 
 <img src="assets/insignia.svg" width="100%" alt="General Insignia">
 
-<sub>GENERAL &nbsp;&mdash;&nbsp; SYSTEMS &nbsp;·&nbsp; SECURITY &nbsp;·&nbsp; APPLIED INTELLIGENCE</sub>
-
-<br>
-
-Baku &nbsp;·&nbsp; Aurion
-
-<br>
-
 **ARSENAL**
 
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
