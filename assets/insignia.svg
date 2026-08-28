@@ -11,12 +11,6 @@
     <!-- star -->
     <polygon points="514.5,21.5 516.1,26.8 521.7,26.8 517.2,29.9 518.5,35.1 514.5,32.2 510.5,35.1 511.8,29.9 507.3,26.8 512.9,26.8" fill="#B8A07A"/>
   </g>
-  <!-- laurel hint under ay yildiz -->
-  <g fill="none" stroke="#2A2A2A" stroke-width="1.1" opacity="0.9">
-    <path d="M 478 38 Q 472 42 474 48"/>
-    <path d="M 522 38 Q 528 42 526 48"/>
-  </g>
-
   <!-- LEFT WING -->
   <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
     <path d="M 287 103 L 224 83.5 L 216 87 L 165 71.5 L 156 75.2 L 112 61.8 L 102 65.5 L 64 54.2 L 53 58 L 27 48.5 L 19 52.8 L 48 68.2 L 57 65.8 L 93 80.2 L 102 77.8 L 138 92.2 L 147 89.8 L 183 104.2 L 192 101.8 L 230 116.2 L 239 113.5 L 287 118.5 Z"/>
