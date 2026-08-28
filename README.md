@@ -13,12 +13,8 @@ Systems software. Security research. Applied AI.
 
 <br>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yusifmuradliroot&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2222&icon_color=FF2222&text_color=BBBBBB" alt="stats">
-<img height="160" src="https://streak-stats.demolab.com?user=yusifmuradliroot&hide_border=true&background=000000&ring=FF2222&fire=FF5533&currStreakLabel=FF2222&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1A0000" alt="streak">
-
-<br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=yusifmuradliroot&theme=radical&no-frame=true&no-bg=true&column=7" alt="trophies">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yusifmuradliroot&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4DB8FF&icon_color=4DB8FF&text_color=BBBBBB" alt="stats">
+<img height="160" src="https://streak-stats.demolab.com?user=yusifmuradliroot&hide_border=true&background=0D1117&ring=4DB8FF&fire=4DB8FF&currStreakLabel=4DB8FF&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=3399CC" alt="streak">
 
 <br>
 
