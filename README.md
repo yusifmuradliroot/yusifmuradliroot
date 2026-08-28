@@ -16,6 +16,8 @@ Systems software. Vulnerability research.
 
 Resilient architectures. Applied AI.
 
+Developing Aurion, my virtual brand.
+
 <br>
 
 **ARSENAL**
