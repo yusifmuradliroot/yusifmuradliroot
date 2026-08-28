@@ -1,17 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="44" viewBox="0 0 96 44">
-  <!-- LOADING with dots, very tight -->
-  <text x="39.5" y="12" text-anchor="middle" font-family="monospace" font-size="7.5" letter-spacing="2" fill="#8A7A60" opacity="0.95">LOADING</text>
-  <g fill="#8A7A60">
-    <circle cx="72" cy="10.2" r="1" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="75" cy="10.2" r="1" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="78" cy="10.2" r="1" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+  <!-- LOADING... as single centered text, dots animate inline -->
+  <text x="48" y="12" text-anchor="middle" font-family="monospace" font-size="7.5" letter-spacing="1.8" fill="#8A7A60" opacity="0.95">LOADING<tspan dx="1.2" opacity="0">.<animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0s" repeatCount="indefinite"/></tspan><tspan opacity="0">.<animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></tspan><tspan opacity="0">.<animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></tspan></text>
   <!-- Rust badge bottom, faded like before -->
   <g>
     <rect y="16" width="96" height="28" rx="3.2" fill="#2E2E2E" stroke="#1E1E1E" stroke-width="0.6"/>
