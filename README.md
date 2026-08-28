@@ -20,9 +20,9 @@ Resilient architectures. Applied AI.
 
 **ARSENAL**
 
-![Python](https://img.shields.io/badge/Python-LVL_1_%E2%9C%93_CLEARED-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
-![JavaScript](https://img.shields.io/badge/JavaScript-LVL_2_%E2%9C%93_CLEARED-0A0A0A?style=for-the-badge&logo=javascript&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
-![Rust](https://img.shields.io/badge/Rust-LVL_3_%E2%8F%B3_LOADING-3A3A3A?style=for-the-badge&logo=rust&logoColor=8A7A60&labelColor=0A0A0A&color=2E2E2E)
+![Python](https://img.shields.io/badge/Python-LVL_1-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-LVL_2-0A0A0A?style=for-the-badge&logo=javascript&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
+<img src="assets/loading.svg" width="18" height="18" style="vertical-align: middle; margin-right: 4px;" alt="loading"> ![Rust](https://img.shields.io/badge/Rust-LVL_3-0A0A0A?style=for-the-badge&logo=rust&logoColor=8A7A60&labelColor=0A0A0A&color=2E2E2E)
 
 <br>
 
