@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/turkic-banner.svg" width="100%" alt="Free Turkic States">
+
 <img src="assets/insignia.svg" width="100%" alt="General Insignia">
 
 <sub>GENERAL &nbsp;&mdash;&nbsp; SYSTEMS &nbsp;·&nbsp; SECURITY &nbsp;·&nbsp; APPLIED INTELLIGENCE</sub>
@@ -45,5 +47,9 @@ Quickdraw &nbsp;·&nbsp; Pull Shark &nbsp;·&nbsp; YOLO
 ---
 
 <sub>2026 &nbsp;·&nbsp; HQ BAKU</sub>
+
+<br>
+
+<img src="assets/turan-flag.svg" width="100%" alt="Turan Flag">
 
 </div>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="42" viewBox="0 0 1000 42">
+  <rect width="1000" height="42" fill="#4DB8FF"/>
+  <!-- white crescent -->
+  <circle cx="488" cy="21" r="10.5" fill="white"/>
+  <circle cx="493.5" cy="21" r="8.3" fill="#4DB8FF"/>
+  <!-- white star -->
+  <polygon points="508,21 509.4,25.6 514.2,25.6 510.3,28.3 511.5,32.8 508,30.2 504.5,32.8 505.7,28.3 501.8,25.6 506.6,25.6" fill="white"/>
+  <!-- thin top/bottom lines -->
+  <rect y="0" width="1000" height="1" fill="#2A9AD6" opacity="0.6"/>
+  <rect y="41" width="1000" height="1" fill="#2A9AD6" opacity="0.6"/>
+</svg>
