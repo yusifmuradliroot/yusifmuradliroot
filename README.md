@@ -28,18 +28,6 @@ Developing Aurion, my virtual brand.
 
 <br>
 
-**OPERATIONS**
-
-*grimorium-of-gartic.io* — tactical automation · JavaScript
-
-<br>
-
-**CONTACT**
-
-[orcid](https://orcid.org/0009-0001-4209-272X) &nbsp;·&nbsp; [instagram](https://www.instagram.com/yusifmuradlizen/)
-
-<br>
-
 ---
 
 <sub>2026 &nbsp;·&nbsp; HQ BAKU</sub>
