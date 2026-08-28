@@ -20,7 +20,9 @@ Resilient architectures. Applied AI.
 
 **ARSENAL**
 
-Python &nbsp;·&nbsp; JavaScript
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
+![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
 
 <br>
 
