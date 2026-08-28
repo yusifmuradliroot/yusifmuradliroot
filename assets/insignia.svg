@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110">
+  <rect width="1000" height="110" fill="#080808"/>
+  <!-- thin top/bottom lines - severe -->
+  <rect y="0" width="1000" height="1.5" fill="#1A1A1A"/>
+  <rect y="108.5" width="1000" height="1.5" fill="#1A1A1A"/>
+  <!-- 4 stars - sharp, muted gold, tight -->
+  <g fill="#B8A07A">
+    <!-- star 1 -->
+    <polygon points="438,42 441.2,51.5 451,51.5 443,57.2 445,66.5 438,61 431,66.5 433,57.2 425,51.5 434.8,51.5"/>
+    <!-- star 2 -->
+    <polygon points="473,42 476.2,51.5 486,51.5 478,57.2 480,66.5 473,61 466,66.5 468,57.2 460,51.5 469.8,51.5"/>
+    <!-- star 3 -->
+    <polygon points="527,42 530.2,51.5 540,51.5 532,57.2 534,66.5 527,61 520,66.5 522,57.2 514,51.5 523.8,51.5"/>
+    <!-- star 4 -->
+    <polygon points="562,42 565.2,51.5 575,51.5 567,57.2 569,66.5 562,61 555,66.5 557,57.2 549,51.5 558.8,51.5"/>
+  </g>
+  <!-- center line - cold -->
+  <rect x="492" y="75" width="16" height="1.2" fill="#1A1A1A"/>
+</svg>

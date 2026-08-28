@@ -1,39 +1,40 @@
 <div align="center">
 
-<br>
+<img src="assets/insignia.svg" width="100%" alt="insignia">
 
 # YUSIF MURADLI
 
-<sub>SYSTEMS &nbsp;&middot;&nbsp; SECURITY &nbsp;&middot;&nbsp; APPLIED INTELLIGENCE</sub>
+<sub>GENERAL &nbsp;&mdash;&nbsp; SYSTEMS &nbsp;·&nbsp; SECURITY &nbsp;·&nbsp; APPLIED INTELLIGENCE</sub>
 
 <br>
 
-Baku — Aurion
+Baku &nbsp;·&nbsp; Aurion
 
 <br>
 
 ---
 
-<br>
+Systems software. Vulnerability research.
 
-Systems software and vulnerability research.
-
-Focused on resilient architectures and applied AI.
+Resilient architectures. Applied AI. No slogans.
 
 <br>
-<br>
 
-**CAPABILITIES**
+**ARSENAL**
 
 Python &nbsp;·&nbsp; JavaScript
 
-Systems Architecture &nbsp;·&nbsp; Security Research
+<br>
+
+**OPERATIONS**
+
+*grimorium-of-gartic.io* — tactical automation · JavaScript
 
 <br>
 
-**SELECTED WORK**
+**RECORD**
 
-*grimorium-of-gartic.io* — tactical automation · JavaScript
+Quickdraw &nbsp;·&nbsp; Pull Shark &nbsp;·&nbsp; YOLO
 
 <br>
 
@@ -42,10 +43,9 @@ Systems Architecture &nbsp;·&nbsp; Security Research
 [orcid](https://orcid.org/0009-0001-4209-272X) &nbsp;·&nbsp; [instagram](https://www.instagram.com/yusifmuradlizen/)
 
 <br>
-<br>
 
 ---
 
-<sub>2026</sub>
+<sub>2026 &nbsp;·&nbsp; HQ BAKU</sub>
 
 </div>
