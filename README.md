@@ -8,4 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
 <img src="assets/rust-loading-badge.svg?v=5" width="96" height="44" style="vertical-align: middle; margin-left: 6px;" alt="Rust loading">
 
+<br>
+
+<img height="150" src="https://streak-stats.demolab.com?user=yusifmuradliroot&hide_border=true&background=080808&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1A1A1A" alt="streak">
+
 </div>
