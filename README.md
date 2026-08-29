@@ -10,6 +10,6 @@
 
 <br>
 
-<img height="150" src="https://streak-stats.demolab.com?user=yusifmuradliroot&theme=dark&hide_border=true" alt="streak">
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifmuradliroot&theme=dark&hide_border=true&v=2" alt="streak">
 
 </div>
