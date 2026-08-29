@@ -10,6 +10,6 @@
 
 <br>
 
-<img height="150" src="https://streak-stats.demolab.com?user=yusifmuradliroot&hide_border=true&background=080808&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1A1A1A" alt="streak">
+<img height="150" src="https://streak-stats.demolab.com?user=yusifmuradliroot&theme=dark&hide_border=true" alt="streak">
 
 </div>
