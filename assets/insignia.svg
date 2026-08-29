@@ -11,32 +11,32 @@
   </g>
 
 
-  <!-- LEFT WING - 7px down -->
+  <!-- LEFT WING - Y up + wider -->
   <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 386 115 L 316 83 L 307 86.8 L 252 69 L 242 72.8 L 194 57.5 L 183 61.5 L 141 49.5 L 128 53.5 L 98 43.5 L 88 48 L 120 66 L 131 63.5 L 171 79.5 L 182 77 L 222 94 L 233 91.5 L 273 108.5 L 284 106 L 328 126 L 339 123.2 L 386 130.5 Z"/>
-    <path d="M 316 83 L 339 123.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 252 69 L 273 108.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 194 57.5 L 222 94" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 141 49.5 L 171 79.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 98 43.5 L 131 63.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
-    <path d="M 88 48 L 120 66 L 131 63.5 L 98 43.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
-    <path d="M 128 53.5 L 171 79.5 L 182 77 L 141 49.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 183 61.5 L 222 94 L 233 91.5 L 194 57.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
-    <path d="M 242 72.8 L 273 108.5 L 284 106 L 252 69" fill="#191919" stroke="none" opacity="0.4"/>
+    <path d="M 386 112 L 316 79 L 307 82.8 L 252 65 L 242 68.8 L 194 52.5 L 183 56.5 L 141 44.5 L 128 48.5 L 98 38.5 L 88 43 L 120 62 L 131 59.5 L 171 75.5 L 182 73 L 222 91 L 233 88.5 L 273 106.5 L 284 104 L 328 125 L 339 122.2 L 386 129.5 Z"/>
+    <path d="M 316 79 L 339 122.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 252 65 L 273 106.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 194 52.5 L 222 91" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 141 44.5 L 171 75.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 98 38.5 L 131 59.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
+    <path d="M 88 43 L 120 62 L 131 59.5 L 98 38.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
+    <path d="M 128 48.5 L 171 75.5 L 182 73 L 141 44.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
+    <path d="M 183 56.5 L 222 91 L 233 88.5 L 194 52.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
+    <path d="M 242 68.8 L 273 106.5 L 284 104 L 252 65" fill="#191919" stroke="none" opacity="0.4"/>
   </g>
 
-  <!-- RIGHT WING - 7px down -->
+  <!-- RIGHT WING - Y up + wider -->
   <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 614 115 L 684 83 L 693 86.8 L 748 69 L 758 72.8 L 806 57.5 L 817 61.5 L 859 49.5 L 872 53.5 L 902 43.5 L 912 48 L 880 66 L 869 63.5 L 829 79.5 L 818 77 L 778 94 L 767 91.5 L 727 108.5 L 716 106 L 672 126 L 661 123.2 L 614 130.5 Z"/>
-    <path d="M 684 83 L 661 123.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 748 69 L 727 108.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 806 57.5 L 778 94" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 859 49.5 L 829 79.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 902 43.5 L 869 63.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
-    <path d="M 912 48 L 880 66 L 869 63.5 L 902 43.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
-    <path d="M 872 53.5 L 829 79.5 L 818 77 L 859 49.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 817 61.5 L 778 94 L 767 91.5 L 806 57.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
-    <path d="M 758 72.8 L 727 108.5 L 716 106 L 748 69" fill="#191919" stroke="none" opacity="0.4"/>
+    <path d="M 614 112 L 684 79 L 693 82.8 L 748 65 L 758 68.8 L 806 52.5 L 817 56.5 L 859 44.5 L 872 48.5 L 902 38.5 L 912 43 L 880 62 L 869 59.5 L 829 75.5 L 818 73 L 778 91 L 767 88.5 L 727 106.5 L 716 104 L 672 125 L 661 122.2 L 614 129.5 Z"/>
+    <path d="M 684 79 L 661 122.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 748 65 L 727 106.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 806 52.5 L 778 91" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 859 44.5 L 829 75.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 902 38.5 L 869 59.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
+    <path d="M 912 43 L 880 62 L 869 59.5 L 902 38.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
+    <path d="M 872 48.5 L 829 75.5 L 818 73 L 859 44.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
+    <path d="M 817 56.5 L 778 91 L 767 88.5 L 806 52.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
+    <path d="M 758 68.8 L 727 106.5 L 716 104 L 748 65" fill="#191919" stroke="none" opacity="0.4"/>
   </g>
 
   <!-- Stars - 1px up from too low -->
