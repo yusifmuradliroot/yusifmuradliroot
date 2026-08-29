@@ -14,44 +14,44 @@
     <path d="M 522 38 Q 528 42 526 48"/>
   </g>
 
-  <!-- LEFT WING - slightly wider, centered on stars -->
+  <!-- LEFT WING - taller on Y -->
   <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 386 103 L 316 82 L 307 85.8 L 252 70 L 242 73.8 L 194 59.5 L 183 63.5 L 141 51.5 L 128 55.5 L 98 45.5 L 88 50 L 120 66 L 131 63.5 L 171 78.5 L 182 76 L 222 91 L 233 88.5 L 273 103.5 L 284 101 L 328 116 L 339 113.2 L 386 118.5 Z"/>
-    <path d="M 316 82 L 339 113.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 252 70 L 273 103.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 194 59.5 L 222 91" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 141 51.5 L 171 78.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 98 45.5 L 131 63.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
-    <path d="M 88 50 L 120 66 L 131 63.5 L 98 45.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
-    <path d="M 128 55.5 L 171 78.5 L 182 76 L 141 51.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 183 63.5 L 222 91 L 233 88.5 L 194 59.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
-    <path d="M 242 73.8 L 273 103.5 L 284 101 L 252 70" fill="#191919" stroke="none" opacity="0.4"/>
+    <path d="M 386 106 L 316 79 L 307 82.8 L 252 66 L 242 69.8 L 194 54.5 L 183 58.5 L 141 46.5 L 128 50.5 L 98 40.5 L 88 45 L 120 62 L 131 59.5 L 171 75.5 L 182 73 L 222 89 L 233 86.5 L 273 102.5 L 284 100 L 328 118 L 339 115.2 L 386 121.5 Z"/>
+    <path d="M 316 79 L 339 115.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 252 66 L 273 102.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 194 54.5 L 222 89" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 141 46.5 L 171 75.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 98 40.5 L 131 59.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
+    <path d="M 88 45 L 120 62 L 131 59.5 L 98 40.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
+    <path d="M 128 50.5 L 171 75.5 L 182 73 L 141 46.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
+    <path d="M 183 58.5 L 222 89 L 233 86.5 L 194 54.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
+    <path d="M 242 69.8 L 273 102.5 L 284 100 L 252 66" fill="#191919" stroke="none" opacity="0.4"/>
   </g>
 
-  <!-- RIGHT WING - slightly wider, centered -->
+  <!-- RIGHT WING - taller -->
   <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 614 103 L 684 82 L 693 85.8 L 748 70 L 758 73.8 L 806 59.5 L 817 63.5 L 859 51.5 L 872 55.5 L 902 45.5 L 912 50 L 880 66 L 869 63.5 L 829 78.5 L 818 76 L 778 91 L 767 88.5 L 727 103.5 L 716 101 L 672 116 L 661 113.2 L 614 118.5 Z"/>
-    <path d="M 684 82 L 661 113.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 748 70 L 727 103.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 806 59.5 L 778 91" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 859 51.5 L 829 78.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 902 45.5 L 869 63.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
-    <path d="M 912 50 L 880 66 L 869 63.5 L 902 45.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
-    <path d="M 872 55.5 L 829 78.5 L 818 76 L 859 51.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 817 63.5 L 778 91 L 767 88.5 L 806 59.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
-    <path d="M 758 73.8 L 727 103.5 L 716 101 L 748 70" fill="#191919" stroke="none" opacity="0.4"/>
+    <path d="M 614 106 L 684 79 L 693 82.8 L 748 66 L 758 69.8 L 806 54.5 L 817 58.5 L 859 46.5 L 872 50.5 L 902 40.5 L 912 45 L 880 62 L 869 59.5 L 829 75.5 L 818 73 L 778 89 L 767 86.5 L 727 102.5 L 716 100 L 672 118 L 661 115.2 L 614 121.5 Z"/>
+    <path d="M 684 79 L 661 115.2" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 748 66 L 727 102.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 806 54.5 L 778 89" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 859 46.5 L 829 75.5" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
+    <path d="M 902 40.5 L 869 59.5" stroke="#1C1C1C" stroke-width="0.55" opacity="0.85"/>
+    <path d="M 912 45 L 880 62 L 869 59.5 L 902 40.5" fill="#1E1E1E" stroke="none" opacity="0.55"/>
+    <path d="M 872 50.5 L 829 75.5 L 818 73 L 859 46.5" fill="#1E1E1E" stroke="none" opacity="0.5"/>
+    <path d="M 817 58.5 L 778 89 L 767 86.5 L 806 54.5" fill="#1E1E1E" stroke="none" opacity="0.45"/>
+    <path d="M 758 69.8 L 727 102.5 L 716 100 L 748 66" fill="#191919" stroke="none" opacity="0.4"/>
   </g>
 
-  <!-- Stars - staggered heights, centered on wings -->
+  <!-- Stars - higher, on wings -->
   <g fill="#B8A07A">
-    <polygon points="205,68 207.2,75 214.5,75 208.6,79 210.3,85.8 205,81.9 199.7,85.8 201.4,79 195.5,75 202.8,75"/>
-    <polygon points="231,72 233.2,79 240.5,79 234.6,83 236.3,89.8 231,85.9 225.7,89.8 227.4,83 221.5,79 228.8,79"/>
-    <polygon points="257,79 259.2,86 266.5,86 260.6,90 262.3,96.8 257,92.9 251.7,96.8 253.4,90 247.5,86 254.8,86"/>
-    <polygon points="283,83 285.2,90 292.5,90 286.6,94 288.3,100.8 283,96.9 277.7,100.8 279.4,94 273.5,90 280.8,90"/>
-    <polygon points="717,83 719.2,90 726.5,90 720.6,94 722.3,100.8 717,96.9 711.7,100.8 713.4,94 707.5,90 714.8,90"/>
-    <polygon points="743,79 745.2,86 752.5,86 746.6,90 748.3,96.8 743,92.9 737.7,96.8 739.4,90 733.5,86 740.8,86"/>
-    <polygon points="769,72 771.2,79 778.5,79 772.6,83 774.3,89.8 769,85.9 763.7,89.8 765.4,83 759.5,79 766.8,79"/>
-    <polygon points="795,68 797.2,75 804.5,75 798.6,79 800.3,85.8 795,81.9 789.7,85.8 791.4,79 785.5,75 792.8,75"/>
+    <polygon points="205,63 207.2,70 214.5,70 208.6,74 210.3,80.8 205,76.9 199.7,80.8 201.4,74 195.5,70 202.8,70"/>
+    <polygon points="231,67 233.2,74 240.5,74 234.6,78 236.3,84.8 231,80.9 225.7,84.8 227.4,78 221.5,74 228.8,74"/>
+    <polygon points="257,74 259.2,81 266.5,81 260.6,85 262.3,91.8 257,87.9 251.7,91.8 253.4,85 247.5,81 254.8,81"/>
+    <polygon points="283,78 285.2,85 292.5,85 286.6,89 288.3,95.8 283,91.9 277.7,95.8 279.4,89 273.5,85 280.8,85"/>
+    <polygon points="717,78 719.2,85 726.5,85 720.6,89 722.3,95.8 717,91.9 711.7,95.8 713.4,89 707.5,85 714.8,85"/>
+    <polygon points="743,74 745.2,81 752.5,81 746.6,85 748.3,91.8 743,87.9 737.7,91.8 739.4,85 733.5,81 740.8,81"/>
+    <polygon points="769,67 771.2,74 778.5,74 772.6,78 774.3,84.8 769,80.9 763.7,84.8 765.4,78 759.5,74 766.8,74"/>
+    <polygon points="795,63 797.2,70 804.5,70 798.6,74 800.3,80.8 795,76.9 789.7,80.8 791.4,74 785.5,70 792.8,70"/>
   </g>
 
   <text x="500" y="103" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="7.5" fill="#EAE8E0" font-weight="400">YUSIF MURADLI</text>
