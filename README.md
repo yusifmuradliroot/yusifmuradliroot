@@ -4,6 +4,8 @@
 
 <img src="assets/insignia.svg" width="100%" alt="General Insignia">
 
+# YUSIF MURADLI
+
 **ARSENAL**
 
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A86A&labelColor=0A0A0A&color=1A1A1A)
