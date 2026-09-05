@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175">
+  <defs>
+    <linearGradient id="fv" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#0F0F0F"/>
+      <stop offset="0.45" stop-color="#222222"/>
+      <stop offset="1" stop-color="#101010"/>
+    </linearGradient>
+  </defs>
   <rect width="1000" height="175" fill="#080808"/>
   <rect y="0" width="1000" height="1.5" fill="#151515"/>
   <rect y="173.5" width="1000" height="1.5" fill="#151515"/>
@@ -10,28 +17,74 @@
     <polygon points="514.5,21.1 515.6,25.5 519.6,23.2 517.3,27.2 521.7,28.3 517.3,29.4 519.6,33.4 515.6,31.1 514.5,35.5 513.4,31.1 509.4,33.4 511.7,29.4 507.3,28.3 511.7,27.2 509.4,23.2 513.4,25.5" fill="#B8A07A"/>
   </g>
 
-  <!-- LEFT BOARD-WING - level, Azerbaijan pogon style -->
-  <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 330 62 L 130 62 L 104 67 L 118 72 L 102 77 L 116 83 L 100 88 L 114 94 L 130 99 L 130 104 L 330 104 Z"/>
-    <path d="M 230 62 L 244 104" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 180 62 L 194 104" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 140 66 L 150 100" stroke="#1C1C1C" stroke-width="0.55" opacity="0.9"/>
-    <path d="M 104 67 L 118 72 L 102 77 L 116 83 L 100 88" fill="none" stroke="#1C1C1C" stroke-width="0.5" opacity="0.7"/>
-    <path d="M 104 67 L 118 72 L 114 74 L 102 70" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 102 77 L 116 83 L 112 85 L 100 80" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 100 88 L 114 94 L 130 99 L 130 96 L 112 91" fill="#191919" stroke="none" opacity="0.45"/>
+  <!-- LEFT WING - real feathers -->
+  <g stroke-linecap="round">
+    <g fill="url(#fv)" stroke="#2B2B2B" stroke-width="0.8">
+      <path d="M312,70 C240,65 160,59 96,60 C160,64 240,74 312,80 Z"/>
+      <path d="M312,74 C240,70 150,66 78,68 C150,71 240,79 312,84 Z"/>
+      <path d="M312,78 C240,75 145,74 66,77 C145,80 240,84 312,88 Z"/>
+      <path d="M312,82 C240,80 142,83 62,87 C142,89 240,89 312,92 Z"/>
+      <path d="M312,86 C240,85 145,91 66,97 C145,96 240,94 312,96 Z"/>
+      <path d="M312,90 C240,90 150,99 78,106 C150,103 240,98 312,100 Z"/>
+      <path d="M312,94 C245,95 165,106 96,113 C165,110 245,103 312,104 Z"/>
+    </g>
+    <g fill="none" stroke="#454545" stroke-width="0.8" opacity="0.75">
+      <path d="M307,75 C235,71 165,62 104,60.5"/>
+      <path d="M307,79 C235,76 155,69 86,68.5"/>
+      <path d="M307,83 C235,81 150,78 74,77.5"/>
+      <path d="M307,87 C235,86 148,86.5 70,87"/>
+      <path d="M307,91 C235,90 150,93 74,96.5"/>
+      <path d="M307,95 C235,94 155,100 86,105"/>
+      <path d="M307,99 C240,99 170,107 104,112.5"/>
+    </g>
+    <g fill="none" stroke="#333333" stroke-width="0.6" opacity="0.3">
+      <path d="M300,77 C240,74 180,66 120,62"/>
+      <path d="M300,81 C240,79 170,73 100,70.5"/>
+      <path d="M300,85 C240,84 165,81 90,79.5"/>
+      <path d="M300,89 C240,89 160,88.5 86,88"/>
+      <path d="M300,93 C240,92 165,94 90,96"/>
+      <path d="M300,97 C240,96 170,101 100,104.5"/>
+      <path d="M300,101 C245,101 180,108 120,111.5"/>
+    </g>
+    <path d="M312,70 C240,65 160,59 96,60" fill="none" stroke="#3A3A3A" stroke-width="0.9" opacity="0.8"/>
+    <path d="M312,104 C245,103 165,110 96,113" fill="none" stroke="#000000" stroke-width="1" opacity="0.6"/>
+    <ellipse cx="320" cy="86" rx="19" ry="21" fill="#191919" stroke="#2E2E2E" stroke-width="0.9"/>
+    <path d="M308,70 Q320,66 332,70" fill="none" stroke="#B8A07A" stroke-width="0.8" opacity="0.35"/>
   </g>
 
-  <!-- RIGHT BOARD-WING - level, mirrored -->
-  <g fill="#141414" stroke="#252525" stroke-width="0.85" stroke-linejoin="miter" opacity="0.98">
-    <path d="M 670 62 L 870 62 L 896 67 L 882 72 L 898 77 L 884 83 L 900 88 L 886 94 L 870 99 L 870 104 L 670 104 Z"/>
-    <path d="M 770 62 L 756 104" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 820 62 L 806 104" stroke="#1C1C1C" stroke-width="0.6" opacity="0.95"/>
-    <path d="M 860 66 L 850 100" stroke="#1C1C1C" stroke-width="0.55" opacity="0.9"/>
-    <path d="M 896 67 L 882 72 L 898 77 L 884 83 L 900 88" fill="none" stroke="#1C1C1C" stroke-width="0.5" opacity="0.7"/>
-    <path d="M 896 67 L 882 72 L 886 74 L 898 70" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 898 77 L 884 83 L 888 85 L 900 80" fill="#1E1E1E" stroke="none" opacity="0.5"/>
-    <path d="M 900 88 L 886 94 L 870 99 L 870 96 L 888 91" fill="#191919" stroke="none" opacity="0.45"/>
+  <!-- RIGHT WING - real feathers, mirrored -->
+  <g stroke-linecap="round">
+    <g fill="url(#fv)" stroke="#2B2B2B" stroke-width="0.8">
+      <path d="M688,70 C760,65 840,59 904,60 C840,64 760,74 688,80 Z"/>
+      <path d="M688,74 C760,70 850,66 922,68 C850,71 760,79 688,84 Z"/>
+      <path d="M688,78 C760,75 855,74 934,77 C855,80 760,84 688,88 Z"/>
+      <path d="M688,82 C760,80 858,83 938,87 C858,89 760,89 688,92 Z"/>
+      <path d="M688,86 C760,85 855,91 934,97 C855,96 760,94 688,96 Z"/>
+      <path d="M688,90 C760,90 850,99 922,106 C850,103 760,98 688,100 Z"/>
+      <path d="M688,94 C755,95 835,106 904,113 C835,110 755,103 688,104 Z"/>
+    </g>
+    <g fill="none" stroke="#454545" stroke-width="0.8" opacity="0.75">
+      <path d="M693,75 C765,71 835,62 896,60.5"/>
+      <path d="M693,79 C765,76 845,69 914,68.5"/>
+      <path d="M693,83 C765,81 850,78 926,77.5"/>
+      <path d="M693,87 C765,86 852,86.5 930,87"/>
+      <path d="M693,91 C765,90 850,93 926,96.5"/>
+      <path d="M693,95 C765,94 845,100 914,105"/>
+      <path d="M693,99 C760,99 830,107 896,112.5"/>
+    </g>
+    <g fill="none" stroke="#333333" stroke-width="0.6" opacity="0.3">
+      <path d="M700,77 C760,74 820,66 880,62"/>
+      <path d="M700,81 C760,79 830,73 900,70.5"/>
+      <path d="M700,85 C760,84 835,81 910,79.5"/>
+      <path d="M700,89 C760,89 840,88.5 914,88"/>
+      <path d="M700,93 C760,92 835,94 910,96"/>
+      <path d="M700,97 C760,96 830,101 900,104.5"/>
+      <path d="M700,101 C755,101 820,108 880,111.5"/>
+    </g>
+    <path d="M688,70 C760,65 840,59 904,60" fill="none" stroke="#3A3A3A" stroke-width="0.9" opacity="0.8"/>
+    <path d="M688,104 C755,103 835,110 904,113" fill="none" stroke="#000000" stroke-width="1" opacity="0.6"/>
+    <ellipse cx="680" cy="86" rx="19" ry="21" fill="#191919" stroke="#2E2E2E" stroke-width="0.9"/>
+    <path d="M668,70 Q680,66 692,70" fill="none" stroke="#B8A07A" stroke-width="0.8" opacity="0.35"/>
   </g>
 
   <!-- Stars - 4 per side, STRAIGHT row, Ordu generali -->
