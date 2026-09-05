@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="assets/doguturkistan.jpeg" width="300" alt="East Turkestan" />
+<img src="assets/doguturkistan.jpeg" width="300" alt="East Turkestan" /><img src="assets/doguturkistan-flag.svg" height="222" alt="East Turkestan flag" />
 
 </div>
 
