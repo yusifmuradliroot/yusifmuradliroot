@@ -1,3 +1,9 @@
+<div align="left">
+
+<img src="assets/doguturkistan.jpeg" width="300" alt="East Turkestan" />
+
+</div>
+
 <div align="center">
 
 <img src="assets/insignia.svg" width="100%" alt="General Insignia">
