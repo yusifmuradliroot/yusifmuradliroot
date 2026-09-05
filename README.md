@@ -1,10 +1,6 @@
-<div align="left">
-
-<img src="assets/doguturkistan.jpeg" height="200" style="vertical-align:top;" alt="East Turkestan" /><img src="assets/doguturkistan-flag.svg" height="200" style="vertical-align:top;" alt="East Turkestan flag" />
-
-</div>
-
 <div align="center">
+
+<img src="assets/doguturkistan-flag.svg" width="100%" alt="East Turkestan flag" />
 
 <img src="assets/insignia.svg" width="100%" alt="General Insignia">
 
