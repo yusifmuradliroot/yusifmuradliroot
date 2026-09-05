@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175">
   <defs>
-    <linearGradient id="fv" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#0F0F0F"/>
-      <stop offset="0.45" stop-color="#222222"/>
+    <linearGradient id="fgL" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#242424"/>
+      <stop offset="1" stop-color="#101010"/>
+    </linearGradient>
+    <linearGradient id="fgR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#242424"/>
       <stop offset="1" stop-color="#101010"/>
     </linearGradient>
   </defs>
@@ -17,74 +20,52 @@
     <polygon points="514.5,21.1 515.6,25.5 519.6,23.2 517.3,27.2 521.7,28.3 517.3,29.4 519.6,33.4 515.6,31.1 514.5,35.5 513.4,31.1 509.4,33.4 511.7,29.4 507.3,28.3 511.7,27.2 509.4,23.2 513.4,25.5" fill="#B8A07A"/>
   </g>
 
-  <!-- LEFT WING - real feathers -->
-  <g stroke-linecap="round">
-    <g fill="url(#fv)" stroke="#2B2B2B" stroke-width="0.8">
-      <path d="M312,70 C240,65 160,59 96,60 C160,64 240,74 312,80 Z"/>
-      <path d="M312,74 C240,70 150,66 78,68 C150,71 240,79 312,84 Z"/>
-      <path d="M312,78 C240,75 145,74 66,77 C145,80 240,84 312,88 Z"/>
-      <path d="M312,82 C240,80 142,83 62,87 C142,89 240,89 312,92 Z"/>
-      <path d="M312,86 C240,85 145,91 66,97 C145,96 240,94 312,96 Z"/>
-      <path d="M312,90 C240,90 150,99 78,106 C150,103 240,98 312,100 Z"/>
-      <path d="M312,94 C245,95 165,106 96,113 C165,110 245,103 312,104 Z"/>
+  <!-- LEFT WING - angel style, sweeping up -->
+  <g>
+    <g fill="url(#fgL)" stroke="#080808" stroke-width="1.6">
+      <path d="M340,95 C245,65 150,32 70,20 C155,48 250,88 342,115 Z"/>
+      <path d="M342,108 C240,85 140,60 40,50 C140,75 245,100 344,124 Z"/>
+      <path d="M344,120 C245,105 145,92 36,86 C145,102 250,115 346,132 Z"/>
+      <path d="M346,132 C250,122 155,118 50,116 C155,126 255,130 348,142 Z"/>
+      <path d="M348,142 C260,136 170,138 84,142 C170,148 265,148 350,152 Z"/>
+      <path d="M350,118 C295,110 235,107 175,108 C235,117 295,123 352,130 Z"/>
+      <path d="M352,130 C300,126 245,126 190,130 C245,138 300,141 354,143 Z"/>
     </g>
-    <g fill="none" stroke="#454545" stroke-width="0.8" opacity="0.75">
-      <path d="M307,75 C235,71 165,62 104,60.5"/>
-      <path d="M307,79 C235,76 155,69 86,68.5"/>
-      <path d="M307,83 C235,81 150,78 74,77.5"/>
-      <path d="M307,87 C235,86 148,86.5 70,87"/>
-      <path d="M307,91 C235,90 150,93 74,96.5"/>
-      <path d="M307,95 C235,94 155,100 86,105"/>
-      <path d="M307,99 C240,99 170,107 104,112.5"/>
+    <ellipse cx="335" cy="130" rx="28" ry="24" fill="#141414"/>
+    <g fill="#1F1F1F" stroke="#080808" stroke-width="2">
+      <ellipse cx="318" cy="108" rx="11" ry="8"/>
+      <ellipse cx="340" cy="110" rx="11" ry="8"/>
+      <ellipse cx="329" cy="122" rx="11" ry="8"/>
+      <ellipse cx="308" cy="124" rx="10" ry="8"/>
+      <ellipse cx="348" cy="126" rx="10" ry="8"/>
+      <ellipse cx="319" cy="138" rx="10" ry="8"/>
+      <ellipse cx="339" cy="140" rx="10" ry="8"/>
     </g>
-    <g fill="none" stroke="#333333" stroke-width="0.6" opacity="0.3">
-      <path d="M300,77 C240,74 180,66 120,62"/>
-      <path d="M300,81 C240,79 170,73 100,70.5"/>
-      <path d="M300,85 C240,84 165,81 90,79.5"/>
-      <path d="M300,89 C240,89 160,88.5 86,88"/>
-      <path d="M300,93 C240,92 165,94 90,96"/>
-      <path d="M300,97 C240,96 170,101 100,104.5"/>
-      <path d="M300,101 C245,101 180,108 120,111.5"/>
-    </g>
-    <path d="M312,70 C240,65 160,59 96,60" fill="none" stroke="#3A3A3A" stroke-width="0.9" opacity="0.8"/>
-    <path d="M312,104 C245,103 165,110 96,113" fill="none" stroke="#000000" stroke-width="1" opacity="0.6"/>
-    <ellipse cx="320" cy="86" rx="19" ry="21" fill="#191919" stroke="#2E2E2E" stroke-width="0.9"/>
-    <path d="M308,70 Q320,66 332,70" fill="none" stroke="#B8A07A" stroke-width="0.8" opacity="0.35"/>
+    <path d="M340,95 C245,65 150,32 70,20" fill="none" stroke="#3D3D3D" stroke-width="1" opacity="0.7"/>
   </g>
 
-  <!-- RIGHT WING - real feathers, mirrored -->
-  <g stroke-linecap="round">
-    <g fill="url(#fv)" stroke="#2B2B2B" stroke-width="0.8">
-      <path d="M688,70 C760,65 840,59 904,60 C840,64 760,74 688,80 Z"/>
-      <path d="M688,74 C760,70 850,66 922,68 C850,71 760,79 688,84 Z"/>
-      <path d="M688,78 C760,75 855,74 934,77 C855,80 760,84 688,88 Z"/>
-      <path d="M688,82 C760,80 858,83 938,87 C858,89 760,89 688,92 Z"/>
-      <path d="M688,86 C760,85 855,91 934,97 C855,96 760,94 688,96 Z"/>
-      <path d="M688,90 C760,90 850,99 922,106 C850,103 760,98 688,100 Z"/>
-      <path d="M688,94 C755,95 835,106 904,113 C835,110 755,103 688,104 Z"/>
+  <!-- RIGHT WING - angel style, mirrored -->
+  <g>
+    <g fill="url(#fgR)" stroke="#080808" stroke-width="1.6">
+      <path d="M660,95 C755,65 850,32 930,20 C845,48 750,88 658,115 Z"/>
+      <path d="M658,108 C760,85 860,60 960,50 C860,75 755,100 656,124 Z"/>
+      <path d="M656,120 C755,105 855,92 964,86 C855,102 750,115 654,132 Z"/>
+      <path d="M654,132 C750,122 845,118 950,116 C845,126 745,130 652,142 Z"/>
+      <path d="M652,142 C740,136 830,138 916,142 C830,148 735,148 650,152 Z"/>
+      <path d="M650,118 C705,110 765,107 825,108 C765,117 705,123 648,130 Z"/>
+      <path d="M648,130 C700,126 755,126 810,130 C755,138 700,141 646,143 Z"/>
     </g>
-    <g fill="none" stroke="#454545" stroke-width="0.8" opacity="0.75">
-      <path d="M693,75 C765,71 835,62 896,60.5"/>
-      <path d="M693,79 C765,76 845,69 914,68.5"/>
-      <path d="M693,83 C765,81 850,78 926,77.5"/>
-      <path d="M693,87 C765,86 852,86.5 930,87"/>
-      <path d="M693,91 C765,90 850,93 926,96.5"/>
-      <path d="M693,95 C765,94 845,100 914,105"/>
-      <path d="M693,99 C760,99 830,107 896,112.5"/>
+    <ellipse cx="665" cy="130" rx="28" ry="24" fill="#141414"/>
+    <g fill="#1F1F1F" stroke="#080808" stroke-width="2">
+      <ellipse cx="682" cy="108" rx="11" ry="8"/>
+      <ellipse cx="660" cy="110" rx="11" ry="8"/>
+      <ellipse cx="671" cy="122" rx="11" ry="8"/>
+      <ellipse cx="692" cy="124" rx="10" ry="8"/>
+      <ellipse cx="652" cy="126" rx="10" ry="8"/>
+      <ellipse cx="681" cy="138" rx="10" ry="8"/>
+      <ellipse cx="661" cy="140" rx="10" ry="8"/>
     </g>
-    <g fill="none" stroke="#333333" stroke-width="0.6" opacity="0.3">
-      <path d="M700,77 C760,74 820,66 880,62"/>
-      <path d="M700,81 C760,79 830,73 900,70.5"/>
-      <path d="M700,85 C760,84 835,81 910,79.5"/>
-      <path d="M700,89 C760,89 840,88.5 914,88"/>
-      <path d="M700,93 C760,92 835,94 910,96"/>
-      <path d="M700,97 C760,96 830,101 900,104.5"/>
-      <path d="M700,101 C755,101 820,108 880,111.5"/>
-    </g>
-    <path d="M688,70 C760,65 840,59 904,60" fill="none" stroke="#3A3A3A" stroke-width="0.9" opacity="0.8"/>
-    <path d="M688,104 C755,103 835,110 904,113" fill="none" stroke="#000000" stroke-width="1" opacity="0.6"/>
-    <ellipse cx="680" cy="86" rx="19" ry="21" fill="#191919" stroke="#2E2E2E" stroke-width="0.9"/>
-    <path d="M668,70 Q680,66 692,70" fill="none" stroke="#B8A07A" stroke-width="0.8" opacity="0.35"/>
+    <path d="M660,95 C755,65 850,32 930,20" fill="none" stroke="#3D3D3D" stroke-width="1" opacity="0.7"/>
   </g>
 
   <!-- Stars - 4 per side, STRAIGHT row, Ordu generali -->
@@ -99,8 +80,8 @@
     <polygon points="860,74 862.2,81 869.5,81 863.6,85 865.3,91.8 860,87.9 854.7,91.8 856.4,85 850.5,81 857.8,81"/>
   </g>
 
-  <text x="500" y="140" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="6" fill="#EAE8E0" font-weight="400">YUSIF MURADLI</text>
+  <text x="500" y="160" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="5" fill="#EAE8E0" font-weight="400">YUSIF MURADLI</text>
 
-  <rect x="445" y="150" width="110" height="0.9" fill="#1E1E1E"/>
-  <rect x="485" y="150" width="30" height="0.9" fill="#B8A07A" opacity="0.9"/>
+  <rect x="445" y="168" width="110" height="0.9" fill="#1E1E1E"/>
+  <rect x="485" y="168" width="30" height="0.9" fill="#B8A07A" opacity="0.9"/>
 </svg>
